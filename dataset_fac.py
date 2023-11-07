@@ -47,7 +47,7 @@ X = scaler.fit_transform(X1)
 import numpy as np
 
 class KFCM_K_W2:
-    def __init__(self, data, c=10, m=1.6, max_iter=2, tol=1e-6):
+    def __init__(self, data, c=10, m=1.6, max_iter=100, tol=1e-6):
         self.data = data
         self.c = c
         self.m = m
@@ -150,7 +150,7 @@ class KFCM_K_W2:
             contador += 1
         return s, g, U, J_old
 
-for num_epocas in range(1):
+for num_epocas in range(50):
   print("***********************")
   print("Épocas: ", num_epocas)
   if __name__ == '__main__':

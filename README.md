@@ -1,4 +1,4 @@
-# Questao01
+# Questão 01
 Repositório com resultados da questao 01 do projeto de Aprendizagem de Máquina.
 
 **Dataset mfeat-fac**

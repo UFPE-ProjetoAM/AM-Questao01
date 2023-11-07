@@ -32,7 +32,6 @@ from IPython.display import Image
 
 drive.mount('/content/drive')
 
-#Gabi
 data = pd.read_csv('/content/drive/MyDrive/Datasets/mfeat-fac', header=None,delim_whitespace=True)
 label= pd.read_csv('/content/drive/MyDrive/Datasets/label.csv', header=None,delim_whitespace=True)
 

@@ -8,7 +8,7 @@ Colab: https://colab.research.google.com/drive/1NjaPGmr52UrsdmghAfiXoyCghiKuR6iC
 Colab: https://colab.research.google.com/drive/1yebIyn13eUAjjf5JRgq-WTPI3BgL5T0k?usp=sharing
 
 **Protótipos**
-<img src="figures/g fou.png">
+<img src="figures/s g.png">
 
 **Vetor de largura**
 <img src="figures/s fou.png">

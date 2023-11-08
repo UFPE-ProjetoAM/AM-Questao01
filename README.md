@@ -12,4 +12,4 @@ Colab: https://colab.research.google.com/drive/1kd2qrPH6bQFKrJsYu0XqHff1EXhO6Ypp
 
 Vetor de largura
 
-mg src="/assets/img/arquivo.gif">
+mg src="figures/s zer.png">

@@ -1,5 +1,5 @@
 # Questão 01
-Repositório com resultados da questao 01 do projeto de Aprendizagem de Máquina.
+Repositório com resultados da questão 01 do projeto de Aprendizagem de Máquina.
 
 ## Dataset mfeat-fac
 Colab: https://colab.research.google.com/drive/1NjaPGmr52UrsdmghAfiXoyCghiKuR6iC?usp=sharing
